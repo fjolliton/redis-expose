@@ -1,0 +1,7 @@
+# Build
+/build/
+/dist/
+/redis_expose.egg-info/
+
+# Emacs
+*~
